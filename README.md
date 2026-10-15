@@ -22,6 +22,7 @@ Frequent speaker on scalable Java architecture and enterprise frameworks at indu
 ### Talks, Lives & Podcasts
 
 * **Oct 20, 2026 · Garden State JUG:** [Java 26 and 27 in the Trenches: New Features and the Art of Staying Current](https://gsjug.org/meetings/2026/oct2026.html)
+* **Oct 14, 2026 · Tamilnadu JUG:** [Java 26 and 27 in the Trenches: New Features and the Art of Staying Current](https://luma.com/imj5l9tf) · ([recording](https://www.linkedin.com/events/7514886512967225344/?playerId=wtRKVhcaRMW3qkMAvoPeJA%3D%3D))
 * **Sep 30, 2026 · GO JAVA JUG:** [Java 26 and 27 in the Trenches: New Features and the Art of Staying Current](https://www.sympla.com.br/evento-online/java-26-and-27-in-the-trenches-new-features-and-the-art-of-staying-current/3597476) · ([recording](https://www.youtube.com/live/fbP_W83BX7o))
 * **Aug 18, 2026 · Out of the Box Developer Podcast:** [Java 26 in the Trenches: New Features and the Art of Staying Current](https://outofthebox.dev/sessions.html) · ([recording](https://www.youtube.com/watch?v=9nrdL7L-n30))
 * **Aug 04, 2026 · Philly JUG:** [Java 26 in the Trenches: New Features and the Art of Staying Current](https://www.meetup.com/phillyjug/events/315001585/)
